@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot-app-react-week-2-code-challenge/static/css/main.0ef38468.css",
+    "main.js": "/robot-app-react-week-2-code-challenge/static/js/main.fc1d4065.js",
+    "static/js/787.2f1d16f6.chunk.js": "/robot-app-react-week-2-code-challenge/static/js/787.2f1d16f6.chunk.js",
+    "index.html": "/robot-app-react-week-2-code-challenge/index.html",
+    "main.0ef38468.css.map": "/robot-app-react-week-2-code-challenge/static/css/main.0ef38468.css.map",
+    "main.fc1d4065.js.map": "/robot-app-react-week-2-code-challenge/static/js/main.fc1d4065.js.map",
+    "787.2f1d16f6.chunk.js.map": "/robot-app-react-week-2-code-challenge/static/js/787.2f1d16f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef38468.css",
+    "static/js/main.fc1d4065.js"
+  ]
+}
